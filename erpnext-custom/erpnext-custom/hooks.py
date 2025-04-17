@@ -1,5 +1,5 @@
 
-app_name = "erpnext_custom"
+app_name = "erpnext-custom"
 app_title = "ERPNext Custom"
 app_publisher = "Your Name"
 app_description = "Custom scripts for ERPNext"
