@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='erpnext_custom',
+    name='erpnext-custom',
     version='0.0.1',
     description='Custom scripts for ERPNext',
     author='Your Name',
