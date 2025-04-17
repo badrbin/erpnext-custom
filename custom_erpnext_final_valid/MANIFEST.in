@@ -1,3 +1,0 @@
-
-include README.md
-recursive-include custom_erpnext/public *
