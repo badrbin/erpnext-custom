@@ -1,0 +1,8 @@
+app_name = "customer_statement_app"
+app_title = "Customer Statement App"
+app_publisher = "Your Company"
+app_description = "تطبيق Frappe لتوليد كشوف حساب العملاء"
+app_icon = "octicon octicon-file-directory"
+app_color = "grey"
+app_email = "info@yourcompany.com"
+app_license = "MIT"
