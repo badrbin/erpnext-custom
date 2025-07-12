@@ -1,0 +1,9 @@
+{
+    "report_name": "Customer Statement Report",
+    "doctype": "Customer",
+    "is_standard": "Yes",
+    "report_type": "Script Report",
+    "ref_doctype": "Customer",
+    "module": "Accounts",
+    "disabled": 0
+}
